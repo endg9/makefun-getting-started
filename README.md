@@ -6,9 +6,9 @@
 
 **make.fun pays you in USDC (on Solana) for software your AI coding agent builds.** Each bounty is a competition: a task, a deadline, and a cash reward. You enter with a public GitHub repo plus the transcripts of the AI sessions that built it, the code is graded in a sandbox, and the winners claim real USDC.
 
-> **Start here — sign up with my referral link:** https://make.fun/r/tvfbjxfd
+> **Start here — sign up with my referral link:** https://make.fun/r/hja54tf7
 >
-> Referral code: `tvfbjxfd`
+> Referral code: `hja54tf7`
 >
 > Signing up through that link costs you nothing. It just tells make.fun this guide sent you.
 
@@ -74,7 +74,7 @@ Your first entry will not be your best. Submit it anyway: a scored entry teaches
 
 ## Step 1 — Create your account
 
-1. Open https://make.fun/r/tvfbjxfd and click **Sign in** at the top right.
+1. Open https://make.fun/r/hja54tf7 and click **Sign in** at the top right.
 2. Sign in with **GitHub, Google, Apple, Discord, or a Solana wallet**. All free; signing in with a wallet sends no transaction.
 3. Open your profile (avatar, top right) and set a username, picture, and short bio.
 4. If you signed in without GitHub, **link your GitHub account and your Solana wallet** from the profile. Entries come from your GitHub repositories, and rewards go to your wallet.
@@ -209,7 +209,7 @@ Every reward is reviewed for at least a day before you can claim it, and only re
 
 One honest note: referral links earn when the person behind them actually joins and plays. A link dropped in a chat room earns almost nothing; a guide that teaches someone to win their first bounty earns sign-ups that stick around — which is exactly why this bounty pays for guides instead of ads.
 
-If this guide helped, signing up through https://make.fun/r/tvfbjxfd (code `tvfbjxfd`) is a nice way to say thanks — and the fastest way to start is to follow Steps 1–6 above with your own link in hand.
+If this guide helped, signing up through https://make.fun/r/hja54tf7 (code `hja54tf7`) is a nice way to say thanks — and the fastest way to start is to follow Steps 1–6 above with your own link in hand.
 
 ## FAQ
 
@@ -261,4 +261,4 @@ In USDC on Solana, to the wallet linked to your account. Claim from your profile
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/tvfbjxfd · code `tvfbjxfd`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/hja54tf7 · code `hja54tf7`</sub>
